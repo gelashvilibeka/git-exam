@@ -134,14 +134,6 @@ margin-left: -10px;
     font-size: 24px;
     width: 100%;    
 }
-
-.banner_item.green {
-    background-color: green;
-    background-image: url()
-    background-repeat: no-repeat;
-    background-position: 95% center;
-    background-size: 80px;
-}
 .banner_item.aqua {
     background-color: aqua;
 }
@@ -210,4 +202,8 @@ margin-left: -10px;
 .blogs h2 {
     margin-top: 30px;
 
+}
+body{
+    background-color: black;
+    color: white;
 }
